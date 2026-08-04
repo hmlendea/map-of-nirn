@@ -3,14 +3,14 @@
 
 # Map of Nirn
 
-A high-resolution world map of Nirn, curated for reference, browsing, and wallpaper usage.
+A high-resolution world map of Nirn, the main planet in The Elder Scrolls universe, curated for reference and browsing.
 
 ## 📑 Table of Contents
 
 - [Features](#features)
 - [Usage](#usage)
 - [Known Limitations](#known-limitations)
-- [Installation](#installation)
+- [Obtaining](#obtaining)
 - [Development](#development)
   - [Requirements](#requirements)
   - [Setup](#setup)
@@ -18,6 +18,7 @@ A high-resolution world map of Nirn, curated for reference, browsing, and wallpa
 - [Documentation](#documentation)
 - [Contributing](#contributing)
 - [Acknowledgements](#acknowledgements)
+- [Legal Disclaimer](#legal-disclaimer)
 - [Helping out](#helping-out)
 - [License](#license)
 
@@ -83,6 +84,11 @@ When doing so, please:
 - Numerous non-canon landmasses, including Akavir and eastern islands, were originally created by the Elder Kings mod team.
 - Numerous crests were originally designed by diverse Beyond Skyrim mod teams.
 - Additional community content was integrated for regions lacking canon cartographic sources.
+
+## ⚖️ Legal Disclaimer
+
+This is a fan-made project.
+The Elder Scrolls, Nirn, and all associated intellectual property are owned by Bethesda Softworks LLC and/or ZeniMax Media Inc.
 
 ## 💝 Helping out
 
