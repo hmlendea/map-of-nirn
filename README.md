@@ -19,6 +19,8 @@ A high-resolution world map of Nirn, the main planet in The Elder Scrolls univer
 - [Contributing](#contributing)
 - [Acknowledgements](#acknowledgements)
 - [Legal Disclaimer](#legal-disclaimer)
+- [Code of Conduct](#code-of-conduct)
+- [Privacy and Data](#privacy-and-data)
 - [Helping out](#helping-out)
 - [License](#license)
 
@@ -97,6 +99,10 @@ The Elder Scrolls, Nirn, and all associated intellectual property are owned by B
 ## 📜 Code of Conduct
 
 This project follows the [Code of Conduct](./CODE_OF_CONDUCT.md).
+
+## 🛡️ Privacy and Data
+
+For the detailed description of how the application handles privacy and personal data, see the [Privacy Statement](./PRIVACY.md).
 
 ## 💝 Helping out
 
