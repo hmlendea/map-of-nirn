@@ -94,6 +94,10 @@ See the [Contributing Guidelines](./CONTRIBUTING.md) for details on how to repor
 This is a fan-made project.
 The Elder Scrolls, Nirn, and all associated intellectual property are owned by Bethesda Softworks LLC and/or ZeniMax Media Inc.
 
+## 📜 Code of Conduct
+
+This project follows the [Code of Conduct](./CODE_OF_CONDUCT.md).
+
 ## 💝 Helping out
 
 Discovered a problem or have a suggestion? [Open an issue](https://github.com/hmlendea/map-of-nirn/issues)!

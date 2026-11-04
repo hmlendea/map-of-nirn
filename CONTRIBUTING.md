@@ -4,7 +4,7 @@ This document covers the guidelines and processes for contributing to this proje
 
 ## 📑 Table of Contents
 
-- [How to Contribute](#-how-to-contribute)
+- [How to Contribute](#how-to-contribute)
   - [Reporting Issues](#reporting-issues)
   - [Suggesting Enhancements](#suggesting-enhancements)
   - [Code Contributions](#code-contributions)
@@ -13,7 +13,7 @@ This document covers the guidelines and processes for contributing to this proje
     - [Pull Request Guidelines](#pull-request-guidelines)
   - [Code Style](#code-style)
   - [Documentation](#documentation)
-- [Getting Assistance](#-getting-assistance)
+- [Getting Assistance](#getting-assistance)
 
 ## 🤝 How to Contribute
 
@@ -70,6 +70,10 @@ Follow the project's coding standards:
 - Revise relevant docs for changes.
 - Follow the documentation style guide.
 - Preview changes locally if possible.
+
+## 📋 Code of Conduct
+
+This project follows the [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 ## ❓ Getting Assistance
 
