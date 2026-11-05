@@ -73,6 +73,12 @@ Key root files:
 | `Planet Nirn.svg` | Primary SVG source for the world map. |
 | `README.md` | Project documentation. |
 
+## 🏗️ Architecture
+
+Map of Nirn is a static asset repository with no executable code, runtime dependencies, or build pipeline. It follows a static asset repository pattern: version-controlled SVG source assets (`Planet Nirn.svg`, `src/crests/*.svg`) with manually produced raster exports distributed via GitHub Releases.
+
+See [ARCHITECTURE.md](./ARCHITECTURE.md) for the system context, architectural style, data architecture, dependency rules, deployment model, compatibility contracts, and design constraints.
+
 ## 🤝 Contributing
 
 You are welcome to submit any suggestion, feedback, or modification to this project.
