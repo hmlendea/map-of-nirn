@@ -104,6 +104,12 @@ This project follows the [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 For the detailed description of how the application handles privacy and personal data, see the [Privacy Statement](./PRIVACY.md).
 
+## 🔒 Security
+
+Map of Nirn is a static asset repository with no executable code or runtime dependencies. The security policy covers the integrity of released assets and the reporting process for concerns related to distributed files.
+
+For information on reporting security vulnerabilities, see the [Security Policy](./SECURITY.md).
+
 ## 💝 Helping out
 
 Discovered a problem or have a suggestion? [Open an issue](https://github.com/hmlendea/map-of-nirn/issues)!
