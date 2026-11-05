@@ -7,24 +7,23 @@ A high-resolution world map of Nirn, the main planet in The Elder Scrolls univer
 
 ## 📑 Table of Contents
 
-- [Features](#features)
+- [Capabilities](#capabilities)
 - [Usage](#usage)
 - [Known Limitations](#known-limitations)
-- [Obtaining](#obtaining)
+- [Installation](#installation)
 - [Development](#development)
-  - [Requirements](#requirements)
-  - [Setup](#setup)
 - [Project Structure](#project-structure)
+- [Architecture](#architecture)
 - [Documentation](#documentation)
+- [Troubleshooting](#troubleshooting)
+- [FAQ](#faq)
 - [Contributing](#contributing)
-- [Acknowledgements](#acknowledgements)
-- [Legal Disclaimer](#legal-disclaimer)
 - [Code of Conduct](#code-of-conduct)
+- [Security](#security)
 - [Privacy and Data](#privacy-and-data)
-- [Helping out](#helping-out)
-- [License](#license)
+- [Project Engagement](#project-engagement)
 
-## ✨ Features
+## ✨ Capabilities
 
 - High-resolution map assets for the world of Nirn.
 - Multiple crest assets in scalable vector format.
@@ -41,7 +40,7 @@ A high-resolution world map of Nirn, the main planet in The Elder Scrolls univer
 - Numerous crests originated from diverse Beyond Skyrim mod teams.
 - Certain regions utilise community content when canon cartographic sources are unavailable.
 
-## 📦 Obtaining
+## 📦 Installation
 
 [![Obtain it from GitHub](https://raw.githubusercontent.com/hmlendea/readme-assets/master/badges/stores/github.png)](https://github.com/hmlendea/map-of-nirn/releases)
 
@@ -77,7 +76,36 @@ Key root files:
 
 Map of Nirn is a static asset repository with no executable code, runtime dependencies, or build pipeline. It follows a static asset repository pattern: version-controlled SVG source assets (`Planet Nirn.svg`, `src/crests/*.svg`) with manually produced raster exports distributed via GitHub Releases.
 
-See [ARCHITECTURE.md](./ARCHITECTURE.md) for the system context, architectural style, data architecture, dependency rules, deployment model, compatibility contracts, and design constraints.
+See [Architecture Documentation](./ARCHITECTURE.md) for the system context, architectural style, data architecture, dependency rules, deployment model, compatibility contracts, and design constraints.
+
+## 📚 Documentation
+
+- [Documentation Index](./docs/INDEX.md) — Master index with repository summary, root document map, and documentation catalogue
+- [Architecture Details](./docs/architecture.md) — Asset pipeline, maintenance workflows, operational model, dependency graph, key decisions, and extension points
+- [Design Decisions](./docs/design-decisions.md) — Key architectural choices with rationale and consequences
+- [Invariants](./docs/invariants.md) — System-wide invariants and contracts
+- [Repository Overview](./docs/repository-overview.md) — Purpose, scope, capabilities, and architectural decomposition
+- [Repository Structure](./docs/repository-structure.md) — Source tree layout, module organisation, and asset inventory
+- [Source Map](./docs/source-map.md) — Detailed asset location mapping and relationship graph
+- [Data Model](./docs/data-model.md) — Domain entities, relationships, and persistence
+- [State and Persistence](./docs/state-and-persistence.md) — State lifecycle and persistence mechanisms
+- [Build and Deployment](./docs/build-and-deployment.md) — Manual export workflow and release publication process
+- [Change Guide](./docs/change-guide.md) — Safe modification procedures for assets
+- [Testing](./docs/testing.md) — Manual verification checklists
+- [Troubleshooting](./docs/troubleshooting.md) — Common issues and solutions
+- [Documentation Maintenance](./docs/documentation-maintenance.md) — Documentation upkeep, ownership, and review cadence
+- [Security Model](./docs/security.md) — Asset integrity, supply chain, and provenance
+- [Dependencies](./docs/dependencies.md) — External dependency analysis
+- [FAQ](./docs/faq.md) — Frequently asked questions
+- [Quick Start](./docs/quick-start.md) — Newcomer onboarding guide
+
+## 🩺 Troubleshooting
+
+Common issues and diagnostic procedures are documented in [Troubleshooting](./docs/troubleshooting.md).
+
+## ❓ FAQ
+
+Frequently asked questions are answered in [FAQ](./docs/faq.md).
 
 ## 🤝 Contributing
 
@@ -91,24 +119,9 @@ When doing so, please:
 
 See the [Contributing Guidelines](./CONTRIBUTING.md) for details on how to report issues, suggest enhancements, and submit changes.
 
-## 🙏 Acknowledgements
-
-- Numerous non-canon landmasses, including Akavir and eastern islands, were originally created by the Elder Kings mod team.
-- Numerous crests were originally designed by diverse Beyond Skyrim mod teams.
-- Additional community content was integrated for regions lacking canon cartographic sources.
-
-## ⚖️ Legal Disclaimer
-
-This is a fan-made project.
-The Elder Scrolls, Nirn, and all associated intellectual property are owned by Bethesda Softworks LLC and/or ZeniMax Media Inc.
-
 ## 📜 Code of Conduct
 
 This project follows the [Code of Conduct](./CODE_OF_CONDUCT.md).
-
-## 🛡️ Privacy and Data
-
-For the detailed description of how the application handles privacy and personal data, see the [Privacy Statement](./PRIVACY.md).
 
 ## 🔒 Security
 
@@ -116,7 +129,11 @@ Map of Nirn is a static asset repository with no executable code or runtime depe
 
 For information on reporting security vulnerabilities, see the [Security Policy](./SECURITY.md).
 
-## 💝 Helping out
+## 🛡️ Privacy and Data
+
+Map of Nirn does not collect, process, transmit, or persist user data, analytics, diagnostics, or telemetry. For the detailed privacy statement, see [PRIVACY.md](./PRIVACY.md).
+
+## 💝 Project Engagement
 
 Discovered a problem or have a suggestion? [Open an issue](https://github.com/hmlendea/map-of-nirn/issues)!
 
